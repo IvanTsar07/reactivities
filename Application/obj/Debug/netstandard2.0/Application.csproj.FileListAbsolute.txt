@@ -1,0 +1,13 @@
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/bin/Debug/netstandard2.0/Application.deps.json
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/bin/Debug/netstandard2.0/Application.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/bin/Debug/netstandard2.0/Application.pdb
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/bin/Debug/netstandard2.0/Domain.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/bin/Debug/netstandard2.0/Domain.pdb
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/obj/Debug/netstandard2.0/Application.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Application/obj/Debug/netstandard2.0/Application.pdb

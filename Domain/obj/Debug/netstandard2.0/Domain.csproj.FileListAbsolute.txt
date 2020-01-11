@@ -1,0 +1,8 @@
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.pdb
