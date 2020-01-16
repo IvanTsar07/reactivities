@@ -5,13 +5,15 @@ import { IActivity } from "../../../app/models/activity";
 
 interface IProps {
 	activity: IActivity;
+	submitting: boolean;
 	setEditMode: (id: boolean) => void;
 	createActivity: (activity: IActivity) => void;
 	editActivity: (activity: IActivity) => void;
 }
 
 const ActivityForm: React.FC<IProps> = ({
-    activity: initialFormState,
+	activity: initialFormState,
+	submitting,
 	setEditMode,
 	createActivity,
 	editActivity
@@ -96,6 +98,7 @@ const ActivityForm: React.FC<IProps> = ({
 				/>
 
 				<Button
+					loading={submitting}
                     floated='right'
                     positive
                     type='submit'
