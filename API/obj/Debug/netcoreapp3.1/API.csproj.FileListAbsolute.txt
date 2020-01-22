@@ -55,3 +55,7 @@
 /home/ivan/Документы/Learning/c-sharp/Reactivities/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
 /home/ivan/Документы/Learning/c-sharp/Reactivities/API/bin/Debug/netcoreapp3.1/MediatR.dll
 /home/ivan/Документы/Learning/c-sharp/Reactivities/API/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/API/bin/Debug/netcoreapp3.1/FluentValidation.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/API/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/API/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+/home/ivan/Документы/Learning/c-sharp/Reactivities/API/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cs

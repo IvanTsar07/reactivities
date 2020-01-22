@@ -65,8 +65,8 @@ export class ActivityStore {
 					this.loadingInitial = false
 				})
 			} catch (error) { 
-				console.log(error);
 				runInAction('loading details error', () => this.loadingInitial = false)
+				console.log(error);
 			}
 		}
 	}
